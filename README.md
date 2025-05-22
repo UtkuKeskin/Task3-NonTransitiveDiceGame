@@ -1,6 +1,8 @@
 # 🌪️ Non-Transitive Dice Game – Provably Fair CLI App
 
-This project is a solution to **Itransition Intern Developer Task #3**, implementing a generalized non-transitive dice game as a secure and user-friendly console application. It is developed in **C# (.NET 8)** and emphasizes:
+This project is a solution to Itransition Intern Developer Task #3, implementing a mathematical model of intransitive relations through a non-transitive dice simulation as a secure and user-friendly console application. It is developed in C# (.NET 8) and emphasizes:
+
+> ⚠️ **Note**: This project simulates a *mathematical model* of intransitive relations rather than a traditional game. It focuses on fair number generation, modular architecture, and CLI-based analysis, as required by the Itransition Intern Developer Task #3.
 
 * ✅ **Provably fair random number generation** using HMAC-SHA3-256
 * ✅ **Modular architecture** with well-isolated responsibility-specific classes
